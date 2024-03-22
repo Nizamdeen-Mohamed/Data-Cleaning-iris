@@ -1,5 +1,3 @@
 Folder | Description
 ---|---
-[iris EDA](https://github.com/Nizamdeen-Mohamed/Exploratory-data-analysis-iris) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) of the Iris dataset.
-[iris Data preprocessing](https://github.com/Nizamdeen-Mohamed/Data-preprocessing-iris/tree/main) | Codes for performing *Data preprocessing* (so as to gain *decision-making*) of the Iris dataset.
-> Note: More to come.
+[iris Data cleaning]([https://github.com/Nizamdeen-Mohamed/Exploratory-data-analysis-iris](https://github.com/Nizamdeen-Mohamed/Data-Cleaning-iris/blob/main/Data_Cleaning.ipynb)) | Codes for performing *data cleaning* (so as to gain *High quality data for analysis*) of the Iris dataset.
